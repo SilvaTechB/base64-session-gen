@@ -1,7 +1,7 @@
 # Gifted-Session-Generator
 - Fork, Star and Edit as you wish
 - Deploy to your favourite hosting server eg Heroku or Render or self hosting
-- This is what I use in my **[Session Site](https://session.giftedtech.co.ke)** so don't ask for more...
+- This is what I use in my **[Session Site](https://session.silvatech.top)** so don't ask for more...
 
 <details>
 <summary>SAMPLE USAGE IN BOT</summary>
@@ -122,3 +122,4 @@ const Gifted = GiftedConnect({
 
 
    
+
