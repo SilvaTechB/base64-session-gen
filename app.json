@@ -1,9 +1,9 @@
 {
-    "name": "Gifted Session Generator",
+    "name": "Silva Session Generator",
     "description": "Web Session Generator",
     "logo": "https://files.catbox.moe/52699c.jpg",
     "repository": "https://github.com/mauricegift/gifted-sess",
-    "keywords": ["Gifted-Tech"],
+    "keywords": ["Silva-Tech"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
     "env": {      
@@ -13,5 +13,6 @@
         "required": false 
       }
     }   
+
 
 }
