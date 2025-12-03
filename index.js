@@ -31,7 +31,7 @@ app.get('/health', (req, res) => {
     res.json({
         status: 200,
         success: true,
-        service: 'Gifted-Md Session',
+        service: 'silva-Md Session',
         timestamp: new Date().toISOString()
     });
 });
