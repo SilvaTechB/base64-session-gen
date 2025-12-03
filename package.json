@@ -1,13 +1,13 @@
 {
-  "name": "gifted-session",
+  "name": "silva-session",
   "main": "./index.js",
   "type": "commonjs",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name giftedsess",
-    "stop": "pm2 stop giftedsess",
-    "restart": "pm2 restart giftedsess"
+    "start": "pm2 start index.js --deep-monitoring --attach --name silva",
+    "stop": "pm2 stop silva",
+    "restart": "pm2 restart silva"
   },
-  "author": "Gifted Tech",
+  "author": "Silva Tech",
   "license": "GPL-3.0 license",
   "dependencies": {
     "@whiskeysockets/baileys": "npm:baileys@6.7.21",
