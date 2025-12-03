@@ -40,7 +40,7 @@ app.listen(PORT, () => {
     console.log(`
 Deployment Successful!
 
- Gifted-Session-Server Running on http://localhost:` + PORT)
+ silva-Session-Server Running on http://localhost:` + PORT)
 })
 
 module.exports = app
